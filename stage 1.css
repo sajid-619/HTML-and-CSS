@@ -1,23 +1,71 @@
-   body {
-      text-align: center;
-      background: url("https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg");
-      background-size: cover;
-      background-position: center;
-      color: white;
-      font-family: helvetica;
-    }
+   body{
+	padding: 10px;
+	margin: 5px;
+}
 
+header{
+	background: #50002F url("images/flywheel.jpg") no-repeat;
+	background-size: 100% 
+}
 
-    p {
-      font-size: 22px;
-      colour: black;
-    }
-    input {
-      border: 0;
-      padding: 10px;
-      font-size: 18px;
-    }
-    input[type="submit"] {
-      background: red;
-      color: white;
-    }
+nav a{
+	text-decoration: none;
+	border-radius: 25px;
+	display: inline-block;
+	margin-left: 50px;
+	margin: 50px;
+	padding: 30px;
+}
+
+.active{
+	background-color: #282828;
+}
+
+a{
+	color: #EDE9E0;
+	text-align: center;
+	background-color: #820048;
+}
+
+h1,h2{
+	text-transform: uppercase;
+}
+
+h1{
+	color: #EDE9E0;
+	text-align: center;
+	font-size: 30px;
+}
+
+h2{
+	color: #282828;
+}
+
+/*section{
+	background-color: #C1BD11;
+	display: inline-block;
+	color: #50002F;
+}*/
+
+.left{
+	background-color: #C1BD11;
+	width:30%;
+	float: left;
+}
+
+img {
+	display: block;
+	width: 180px;
+	height: 180px;
+	border: 2px solid #FFFFFF;
+	margin-left: 95px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.right{
+	float: left;
+	text-align: left;
+	width: 67%;
+	margin-left: 2%;
+}
