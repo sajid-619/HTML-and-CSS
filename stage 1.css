@@ -44,14 +44,13 @@ h1{
 
 h2{
 	color: #282828;
+	background-color: #585858;
 	
 }
 
-/*section{
-	background-color: #C1BD11;
-	display: inline-block;
-	color: #50002F;
-}*/
+p { 
+	background-color: #585858;
+}	
 
 .left{
 	background-color: #C1BD11;
