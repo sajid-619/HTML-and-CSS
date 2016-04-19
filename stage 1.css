@@ -35,10 +35,14 @@ h1{
 	color: #EDE9E0;
 	text-align: center;
 	font-size: 30px;
+	color:white;
+	background-color:#B0B0B0; 
+	
 }
 
 h2{
 	color: #282828;
+	
 }
 
 /*section{
