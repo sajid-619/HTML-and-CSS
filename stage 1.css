@@ -8,13 +8,15 @@ header{
 	background-size: 100% 
 }
 
-nav a{
+nav {
 	text-decoration: none;
 	border-radius: 25px;
 	display: inline-block;
 	margin-left: 50px;
 	margin: 50px;
 	padding: 30px;
+	color:#000000;
+	background-color: #B0B0B0;
 }
 
 .active{
