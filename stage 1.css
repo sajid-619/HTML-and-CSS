@@ -4,7 +4,7 @@
 }
 
 header{
-	background: #50002F url("images/flywheel.jpg") no-repeat;
+	background: #50002F;
 	background-size: 100% 
 }
 
@@ -52,11 +52,6 @@ p {
 	background-color: #585858;
 }	
 
-.left{
-	background-color: #C1BD11;
-	width:30%;
-	float: left;
-}
 
 img {
 	display: block;
